@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, technology and, wait for it... TECHNOLOGY
 - 🌱 I’m currently fullstack delphi developer; learning React and NodeJS
 - 💞️ Passionate about as you know, TECHNOLOGY, but even more about growing and bringing others with me
-- 📫 Why don't you talk to me through linked.in? :D ▶️ www.linkedin.com/in/barbosamarcio-
+- 📫 What about a little chit chat through linked.in? :D ▶️ www.linkedin.com/in/barbosamarcio-
 
 Now take some craic:
 - ✨ My truly passion for technology and development burned when I was 9yo with a game called TIBIA. 
