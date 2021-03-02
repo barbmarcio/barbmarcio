@@ -11,6 +11,7 @@
 when we right clicked on a mirror, the outfit screen appeared 😍😍
 - ✨ So we migrated to GTA where again we decided to have our own online server and I learned a little bit of PAWN (C-like syntax)
 - ✨ When 12yo my mom decided to put me in a Game Development course where I have learned C# and started SQL and a bit of Unity 3D
-- ✨ And a little time jump, in the college (18yo) I have learned web development (html, css, js) but I started the big boys job and
-have never focused on these web tools **'TIL NOW**
-- ✨ I'm programming in Delphi since then
+- ✨ And a little time jump, in the college (18yo) I have learned web development (html, css, js), but I started the big boy job life and
+have never focused on these web tools **'TIL NOW**, because we only developed Delphi apps at work
+- ✨ I've been programming in Delphi since then (2015) and decided to make 2021 my revolutionary year, putting all my acquired programming logics
+through all these years in web dev tools 😁😁
