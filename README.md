@@ -4,6 +4,8 @@
 - 💞️ Passionate about as you know, TECHNOLOGY, but even more about growing and bringing others with me
 - 📫 What about a little chit chat through linked.in? :D ▶️ www.linkedin.com/in/barbosamarcio-
 
+~ LET'S IMPACT AND CHANGE PEOPLE'S LIVES TOGETHER? ~
+
 **_Now take some craic:_**
 - ✨ My truly passion for technology and development burned when I was 9yo with a game called TIBIA. 
 - ✨ My friend and I decided to create our own Tibia Server and WE MADE IT
