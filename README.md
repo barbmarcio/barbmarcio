@@ -19,7 +19,7 @@ From **Brazil** (🇧🇷) to the **world** (🌍), I’m a seasoned **Tech Lead
 
 🌎 **Language Skills:**
 
-- 💬 Fluent in **Portuguese** (native) and **English** (C2 level), with some basic **French** for when I want to sound a bit more sophisticated (A2 level).
+- 💬 Fluent in **Portuguese** (native) and **English** (full professional proficiency), with some basic **French** for when I want to sound a bit more sophisticated (A2 level).
 
 🤝 **Let’s Connect!**
 
